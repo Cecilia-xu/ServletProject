@@ -1,0 +1,51 @@
+body{
+    background-color: #ecf6ff;    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+.navbar{
+	height: 50px;
+}
+.container{
+	margin-top: 100px;
+}
+.row{
+	padding-top: 10px;
+}
+.content1{
+	float: left;
+	padding-left: 10%;
+	padding-right: 15%; 
+}
+.content2{
+	float: left;
+}
+.content{
+    float: left;
+    padding-left: 33.3%;
+}
+input[type="input"] {
+    width: 400px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type="password"] {
+    width: 400px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type="radio"] {
+    width: 100px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+button{
+    padding: 10px 30px 10px 30px;
+    background: #66C1E4;
+    border: none;
+    color: #FFF;
+    width: 400px;
+}
